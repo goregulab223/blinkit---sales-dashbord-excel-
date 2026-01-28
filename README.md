@@ -89,4 +89,5 @@ All data used is sample data and does not represent actual Blinkit or Zomato bus
 ## Author
 
 **Gulab Gore**
+
 Data Analytics | Excel | SQL | Python | Power BI | Machine Learning
